@@ -4,7 +4,3 @@ Implement Steffen Rendle, et al. Bayesian personalized ranking from implicit fee
 Implement Runlong Yu, et al. Multiple Pairwise Ranking with Implicit Feedback in Python3.
 
 Dataset describe: MovieLens100K; 943 Users; 1682 Items.
-
-About MPR Framework:
-
-![avatar](http://pic.rsun.tech/MPR.PNG)
